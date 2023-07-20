@@ -1,4 +1,5 @@
 # GifExpertApp
 
+Este es mi repositorio del proyecto de GifExpertApp de React, que es un buscador de gif.
 
-Este es mi repositorio del poryecto de GifExpertApp de React
+link del reposiorio de GitHub pages: https://josetvasco.github.io/react-gif-expert/
